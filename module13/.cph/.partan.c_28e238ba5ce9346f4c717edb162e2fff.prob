@@ -1,0 +1,1 @@
+{"name":"Local: partan","url":"c:\\Users\\mahedi anik\\Desktop\\Phitron\\first-semester\\c\\module13\\partan.c","tests":[{"id":1682787868029,"input":"5","output":"*\n**\n***\n****\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mahedi anik\\Desktop\\Phitron\\first-semester\\c\\module13\\partan.c","group":"local","local":true}

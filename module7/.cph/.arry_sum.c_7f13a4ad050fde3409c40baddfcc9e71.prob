@@ -1,0 +1,1 @@
+{"name":"Local: arry_sum","url":"c:\\Users\\mahedi anik\\Desktop\\Phitron\\first-semester\\c\\module7\\arry_sum.c","tests":[{"id":1681290763472,"input":"5\n10 20 20 50 200 ","output":"300"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mahedi anik\\Desktop\\Phitron\\first-semester\\c\\module7\\arry_sum.c","group":"local","local":true}

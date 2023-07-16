@@ -1,0 +1,1 @@
+{"name":"Local: countarray","url":"c:\\Users\\mahedi anik\\Desktop\\Phitron\\first-semester\\c\\module11\\countarray.c","tests":[{"id":1681900242564,"input":"7\n1 2 1 5 2 0 0","output":"1 2 1 5 2 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mahedi anik\\Desktop\\Phitron\\first-semester\\c\\module11\\countarray.c","group":"local","local":true}
